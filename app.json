@@ -1,5 +1,5 @@
 {
-    "name": "PIKACHU BY BAALA-SHETAAN",
+    "name": "PIKACHU BY Evil_Zeemi",
     "description": "pikachu bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://raw.githubusercontent.com/itxammy/pikachu/master/Pikachu-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏BAALA BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏Evil_Zeemi⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
